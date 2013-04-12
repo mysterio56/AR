@@ -6,6 +6,6 @@ function functionDefault(){
 
 function otherFunction(){
     var sMenssage = "other function";
-    console.log(sMenssage);
+    console.log(sMenssage+",");
     
 }
