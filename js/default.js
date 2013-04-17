@@ -10,6 +10,6 @@ function otherFunction(){
     console.log(sMenssage+';'); // esto es un comentario en github for windows
     //conflicto github 3
     //otro comentario
-    //12:38
+    //3:48
     //jikk
 }
