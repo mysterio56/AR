@@ -11,5 +11,4 @@ function otherFunction(){
     //conflicto github 3
     //otro comentario
     //3:87
-    //jikk
 }
