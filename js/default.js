@@ -8,4 +8,6 @@ function otherFunction(){
     var sMenssage = "other function";
     console.log(sMenssage+';'); // esto es un comentario en github for windows
     //conflicto
+    //conflicto github 3
+    //otro comentario
 }
