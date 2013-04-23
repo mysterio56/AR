@@ -11,5 +11,5 @@ function otherFunction(){
     //conflicto github 3
     //otro comentario.
     //4:20
-    //unmerge
+    //merge
 }
