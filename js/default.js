@@ -10,5 +10,5 @@ function otherFunction(){
     console.log(sMenssage+';'); // esto es un comentario en github for windows
     //conflicto github 3
     //otro comentario.
-    //para recordar 2
+    //para recordar
 }
